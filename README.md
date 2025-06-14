@@ -1,4 +1,4 @@
 # voting-prediction
 citizen electoral choice prediction.
 <br>
-Author - Aman Singh
+Author - Aman Singh (CSE)
